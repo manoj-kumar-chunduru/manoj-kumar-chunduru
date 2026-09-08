@@ -1,21 +1,125 @@
-# 💫 About Me:
-🔭 I’m currently working on Cloud-native distributed systems, backend services, REST/gRPC APIs, and scalable microservice architectures.<br><br>👯 I’m looking to collaborate on Cloud-native applications, distributed systems, backend engineering, automation, and open-source projects.<br><br>🤝 I’m looking for help with Advanced system design, distributed systems, cloud architecture, scalability, and production-grade engineering.<br><br>🌱 I’m currently learning Kubernetes, advanced AWS/GCP architecture, distributed systems, observability, performance engineering, and system design.<br><br>💬 Ask me about Python, Java, REST APIs, microservices, AWS, GCP, Azure, CI/CD, test automation, and distributed systems.<br><br>⚡ Fun fact - I enjoy turning complex engineering problems into simple, scalable, and reliable systems.
+# Hi, I'm Manoj Kumar Chunduru 👋
 
+### Software Engineer | Distributed Systems | Cloud-Native | Backend | ML Infrastructure
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kumar-c-547848137) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meetmanoj96@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=manoj-kumar-chunduru&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=manoj-kumar-chunduru&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manoj-kumar-chunduru&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I build scalable backend systems, distributed services, cloud-native platforms,
+and ML-powered applications with a focus on reliability, performance,
+observability, and clean architecture.
 
 ---
-[![](https://komarev.com/ghpvc/?username=manoj-kumar-chunduru&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Engineering Focus
+
+- Distributed Systems & Microservices
+- Cloud-Native Backend Engineering
+- High-Throughput Event Processing
+- Performance & Reliability Engineering
+- REST & gRPC APIs
+- Asynchronous & Concurrent Processing
+- ML Infrastructure & Model Serving
+- Caching, Storage & Data Processing
+- Observability, Monitoring & CI/CD
+- Docker, Kubernetes & Infrastructure Automation
+
+---
+
+## 🛠️ Technology Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![REST](https://img.shields.io/badge/REST-API-black?style=flat)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+
+### Data & Messaging
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+
+### Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+---
+
+## ⭐ Featured Projects
+
+### ☁️ Cloud-Native Microservices Platform
+
+Production-oriented microservices platform demonstrating distributed
+architecture, REST APIs, caching, observability, containerization,
+and Kubernetes deployment.
+
+**Focus:** Microservices • Distributed Systems • Cloud-Native • Kubernetes
+
+[View Repository](https://github.com/manoj-kumar-chunduru/cloud-native-microservices-platform)
+
+---
+
+### 💾 Distributed Storage Performance Engine
+
+Storage-engine project demonstrating partitioning, replication,
+caching, concurrency, idempotency, reliability, and performance engineering.
+
+**Focus:** Distributed Storage • Concurrency • Performance • Reliability
+
+[View Repository](https://github.com/manoj-kumar-chunduru/distributed-storage-performance-engine)
+
+---
+
+### ⚡ High-Throughput Event Processing
+
+Event-processing platform demonstrating concurrent processing,
+event-driven architecture, retries, observability, and scalable
+cloud-native design.
+
+**Focus:** Event Processing • Concurrency • Distributed Systems
+
+[View Repository](https://github.com/manoj-kumar-chunduru/high-throughput-event-processing)
+
+---
+
+### 🌐 Cloud-Native 3D Asset Processing
+
+Asynchronous 3D asset processing platform demonstrating content-addressable
+storage, caching, job processing, observability, and scalable APIs.
+
+**Focus:** Async Processing • Cloud-Native • APIs • Caching
+
+[View Repository](https://github.com/manoj-kumar-chunduru/cloud-native-3d-asset-processing)
+
+---
+
+### 🤖 ML-Powered API Platform
+
+Production-oriented ML inference platform demonstrating model serving,
+feature processing, prediction caching, observability, and cloud-native
+deployment.
+
+**Focus:** ML Infrastructure • Model Serving • Inference • MLOps
+
+[View Repository](https://github.com/manoj-kumar-chunduru/ml-powered-api-platform)
+
+---
+
+## 🧠 Engineering Principles
+
+```text
+Scalability        Reliability
+Performance        Observability
+Clean Architecture Automation
+Testability        Maintainability
