@@ -276,7 +276,7 @@ and ready for cloud-native deployment.
 
 ## 🎓 Education
 
-**Master of Science in Information Technology — Data Management & Analytics**
+**Master of Science in Information Technology - Data Management & Analytics**
 
 Washington University of Science and Technology
 
