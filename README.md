@@ -1,4 +1,4 @@
-[# Hi, I'm Manoj Kumar Chunduru 👋
+# Hi, I'm Manoj Kumar Chunduru 👋
 
 ### Software Engineer | Distributed Systems | Cloud-Native | Backend | ML Infrastructure
 
@@ -129,6 +129,180 @@ Scalability        Reliability
 Performance        Observability
 Clean Architecture Automation
 Testability        Maintainability
+```
+
+I focus on building systems that are not only functional, but also
+
+observable, testable, resilient, and designed for operational scale.
+
+---
+
+## 📐 Architecture & Engineering
+
+My projects emphasize:
+
+- Clear separation of concerns
+- API-first service design
+- Thread-safe and concurrent processing
+- Caching and performance optimization
+- Failure handling and retry strategies
+- Health and readiness checks
+- Metrics and structured observability
+- Automated testing
+- Containerized deployment
+- Kubernetes-oriented architecture
+- CI/CD automation
+- Security-conscious engineering
+
+---
+
+## 🧪 Quality & Reliability
+
+I treat testing and operational reliability as first-class engineering
+
+concerns.
+
+Projects include areas such as:
+
+- Unit testing
+- Integration testing
+- Concurrency testing
+- Performance benchmarking
+- API validation
+- Health and readiness endpoints
+- Metrics and observability
+- Failure and retry handling
+- Containerized test environments
+
+---
+
+## ☁️ Cloud-Native Engineering
+
+I design applications with cloud-native principles in mind:
+
+```text
+Application
+    │
+    ├── REST / API Layer
+    │
+    ├── Service Layer
+    │
+    ├── Processing / Business Logic
+    │
+    ├── Cache / Storage
+    │
+    └── Observability
+             │
+             ├── Metrics
+             ├── Logging
+             └── Health Checks
+```
+
+Containerization and Kubernetes manifests are included where appropriate
+
+to demonstrate deployment and operational considerations.
+
+---
+
+## 🔧 Engineering Practices
+
+I value:
+
+- Clean and maintainable code
+- Explicit interfaces and abstractions
+- Defensive error handling
+- Deterministic behavior where practical
+- Automated validation
+- Reproducible local development
+- Infrastructure as code
+- Documentation of architectural decisions
+- Performance measurement instead of assumptions
+- Operational visibility from the beginning
+
+---
+
+## 📊 Performance & Reliability Mindset
+
+I approach performance and reliability as engineering problems that should
+
+be measured and validated.
+
+Key areas include:
+
+- Latency and throughput
+- Concurrency behavior
+- Resource utilization
+- Caching effectiveness
+- Retry and failure behavior
+- Service health
+- Observability
+- Scalability considerations
+
+Benchmark results in portfolio projects are treated as workload- and
+
+environment-dependent measurements rather than universal production claims.
+
+---
+
+## 🧰 Development & Delivery
+
+I follow a structured engineering workflow:
+
+```text
+Design
+  ↓
+Implementation
+  ↓
+Automated Testing
+  ↓
+Performance Validation
+  ↓
+Containerization
+  ↓
+CI/CD
+  ↓
+Cloud-Native Deployment
+  ↓
+Monitoring & Observability
+  ↓
+Continuous Improvement
+```
+
+This approach helps keep development reproducible, testable, observable,
+
+and ready for cloud-native deployment.
+
+---
+
+## 🎓 Education
+
+**Master of Science in Information Technology — Data Management & Analytics**
+
+Washington University of Science and Technology
+
+---
+
+## 🤝 Let's Connect
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/manoj-kumar-c-547848137/)
-](https://www.linkedin.com/in/manoj-kumar-c-547848137/)
+- 🐙 GitHub: [@manoj-kumar-chunduru](https://github.com/manoj-kumar-chunduru)
+
+---
+
+### 💡 Engineering Mindset
+
+> Build for scale.
+>
+> Design for failure.
+>
+> Measure performance.
+>
+> Automate everything.
+>
+> Keep systems observable.
+
+---
+
+⭐ Feel free to explore the repositories, architecture documentation,
+
+tests, benchmarks, and deployment configurations.
