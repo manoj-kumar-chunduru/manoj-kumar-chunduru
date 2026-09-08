@@ -123,3 +123,8 @@ Scalability        Reliability
 Performance        Observability
 Clean Architecture Automation
 Testability        Maintainability
+
+## 🤝 Let's Connect
+
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/manoj-kumar-c-547848137/)
+- GitHub: [@manoj-kumar-chunduru](https://github.com/manoj-kumar-chunduru)
