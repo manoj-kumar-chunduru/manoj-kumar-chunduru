@@ -1,4 +1,4 @@
-# Hi, I'm Manoj Kumar Chunduru 👋
+[# Hi, I'm Manoj Kumar Chunduru 👋
 
 ### Software Engineer | Distributed Systems | Cloud-Native | Backend | ML Infrastructure
 
@@ -131,3 +131,4 @@ Clean Architecture Automation
 Testability        Maintainability
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/manoj-kumar-c-547848137/)
+](https://www.linkedin.com/in/manoj-kumar-c-547848137/)
