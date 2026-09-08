@@ -129,3 +129,5 @@ Scalability        Reliability
 Performance        Observability
 Clean Architecture Automation
 Testability        Maintainability
+
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/manoj-kumar-c-547848137/)
